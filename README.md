@@ -10,3 +10,9 @@ Your objective is simple: pop as many numbers as you can within the given time f
 
 ### The Number Board: 
 You'll see a grid filled with numbers from 1 to 9 and the number to be popped is also given. You need to pop as much number given as you can with in 60 seconds. After 60 seconds you will get you score (ie. 10 points for 1 pop).
+
+
+### `Tech-Stacks Used:`
+HTML
+CSS
+Javascript
