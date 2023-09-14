@@ -15,4 +15,4 @@ You'll see a grid filled with numbers from 1 to 9 and the number to be popped is
 ### `Tech-Stacks Used:`
 HTML \
 CSS \
-Javascript \
+Javascript 
