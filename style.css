@@ -164,3 +164,40 @@ html,body{
     cursor: pointer;
 
 }
+
+/* Existing CSS code before the media query */
+
+@media (max-width: 600px) 
+{
+
+    #pannel{
+         width: 96%;
+         height:830px;
+    }
+
+
+
+
+    #ptop {
+        padding: 0px 30%;
+        gap: 50px;
+        align-items: center;
+        justify-content: center;
+        
+    }
+    
+    .elem {
+        gap: 0px;
+        display: block;
+       
+    }
+    
+    .box {
+        font-size: 16px; 
+    }
+    
+    
+   
+    
+   
+}
