@@ -9,7 +9,7 @@ Your objective is simple: pop as many numbers as you can within the given time f
 ### `How to Play: `
 
 ### The Number Board: 
-First, you need to enter the game and You'll see a grid filled with numbers from 1 to 9 and the number to be popped is also given. You need to pop as much number given as you can with in 60 seconds. After 60 seconds you will get you score (ie. 10 points for 1 pop).
+First, you need to enter the game and You'll see a grid filled with numbers from 0 to 9 and the number to be popped is also given. You need to pop as much number given as you can with in 60 seconds. After 60 seconds you will get you score (ie. 10 points for 1 pop).
 
 
 <img width="1266" alt=" " src="https://github.com/Roshni-Mandal/Bubble-Game/blob/main/Images/Screenshot%202023-09-14%20at%2011.51.09%E2%80%AFPM.png">
